@@ -1,0 +1,14 @@
+C:\Users\hokia\Desktop\MultiThreadExamDemo\bin\Debug\net8.0\MultiThreadExamDemo.exe
+C:\Users\hokia\Desktop\MultiThreadExamDemo\bin\Debug\net8.0\MultiThreadExamDemo.deps.json
+C:\Users\hokia\Desktop\MultiThreadExamDemo\bin\Debug\net8.0\MultiThreadExamDemo.runtimeconfig.json
+C:\Users\hokia\Desktop\MultiThreadExamDemo\bin\Debug\net8.0\MultiThreadExamDemo.dll
+C:\Users\hokia\Desktop\MultiThreadExamDemo\bin\Debug\net8.0\MultiThreadExamDemo.pdb
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.AssemblyInfoInputs.cache
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.AssemblyInfo.cs
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.csproj.CoreCompileInputs.cache
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.dll
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\refint\MultiThreadExamDemo.dll
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.pdb
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\MultiThreadExamDemo.genruntimeconfig.cache
+C:\Users\hokia\Desktop\MultiThreadExamDemo\obj\Debug\net8.0\ref\MultiThreadExamDemo.dll
